@@ -5,11 +5,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6B27EB7D-376E-41A5-9982-89C09EBBD1B6}</ProjectGuid>
+    <ProjectGuid>{4EED31B5-9F25-4730-9259-AF763B0C41E7}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Tyuiu.KasenovAE.Sprint5.Task5.V26.Test</RootNamespace>
-    <AssemblyName>Tyuiu.KasenovAE.Sprint5.Task5.V26.Test</AssemblyName>
+    <RootNamespace>Tyuiu.KasenovAE.Sprint5.Task4.V26.Test</RootNamespace>
+    <AssemblyName>Tyuiu.KasenovAE.Sprint5.Task4.V26.Test</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -56,9 +56,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.KasenovAE.Sprint5.Task5.V26.Lib\Tyuiu.KasenovAE.Sprint5.Task5.V26.Lib.csproj">
-      <Project>{afa0621f-1f8d-4e12-9d10-1249c90f5e7f}</Project>
-      <Name>Tyuiu.KasenovAE.Sprint5.Task5.V26.Lib</Name>
+    <ProjectReference Include="..\Tyuiu.KasenovAE.Sprint5.Task4.V26.Lib\Tyuiu.KasenovAE.Sprint5.Task4.V26.Lib.csproj">
+      <Project>{94ff02e6-79c2-410e-83c3-57241d7be570}</Project>
+      <Name>Tyuiu.KasenovAE.Sprint5.Task4.V26.Lib</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />

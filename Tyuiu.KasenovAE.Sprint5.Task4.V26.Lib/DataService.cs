@@ -3,7 +3,7 @@ using System.IO;
 using System.Threading;
 using tyuiu.cources.programming.interfaces.Sprint5;
 
-namespace Tyuiu.KasenovAE.Sprint5.Task5.V26.Lib
+namespace Tyuiu.KasenovAE.Sprint5.Task4.V26.Lib
 {
     public class DataService : ISprint5Task4V26
     {

@@ -1,7 +1,7 @@
 ﻿using System;
-using Tyuiu.KasenovAE.Sprint5.Task5.V26.Lib;
+using Tyuiu.KasenovAE.Sprint5.Task4.V26.Lib;
 
-namespace Tyuiu.KasenovAE.Sprint5.Task5.V26
+namespace Tyuiu.KasenovAE.Sprint5.Task4.V26
 {
     class Program
     {
@@ -38,3 +38,4 @@ namespace Tyuiu.KasenovAE.Sprint5.Task5.V26
         }
     }
 }
+

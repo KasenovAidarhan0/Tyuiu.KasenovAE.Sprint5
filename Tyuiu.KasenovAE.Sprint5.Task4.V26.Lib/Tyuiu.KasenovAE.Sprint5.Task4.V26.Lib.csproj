@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AFA0621F-1F8D-4E12-9D10-1249C90F5E7F}</ProjectGuid>
+    <ProjectGuid>{94FF02E6-79C2-410E-83C3-57241D7BE570}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Tyuiu.KasenovAE.Sprint5.Task5.V26.Lib</RootNamespace>
-    <AssemblyName>Tyuiu.KasenovAE.Sprint5.Task5.V26.Lib</AssemblyName>
+    <RootNamespace>Tyuiu.KasenovAE.Sprint5.Task4.V26.Lib</RootNamespace>
+    <AssemblyName>Tyuiu.KasenovAE.Sprint5.Task4.V26.Lib</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
